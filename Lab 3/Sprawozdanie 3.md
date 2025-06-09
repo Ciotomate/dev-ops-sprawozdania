@@ -6,9 +6,11 @@ Celem laboratoriów bylo zapoznanie się z code review i podstawowymi plikami bu
 
 Na początku za pomoca poleceń:
 
-'git fetch --all
+```
+git fetch --all
 git checkout main
-git pull'
+git pull
+```
 
 zaktualizowano repozytorium, aby mieć pewność, że lokalna wersja jest zsynchronizowana z najnowszymi zmianami w repozytorium zdalnym.
 
